@@ -13,7 +13,7 @@ Para o desenvolvimento da idéia, e roteirização do conteúdo, além da arte v
 ## 🚀 Resultados
 O e-book apresenta uma linguagem direta e simples, pois esta era a intenção, no sentido de despertar no leitor o desejo pela pesquisa do tema
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Eavieira77/lab-natty-or-not/blob/main/IA%20e%20o%20Aprendizado%20Acelerado.pdf)
 
 ## 💭 Reflexão
 Para mim, foi uma grande experiência, pois pude perceber como a IA generativa pode ser útil na geração de vários tipos de conteúdo e que podemos desenvolver materiais atrativos para transmitir o conhecimento.
